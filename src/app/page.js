@@ -3,7 +3,9 @@ import Image from "next/image";
 export const metadata = {
   title: "Career Consultant PK",
   description: "Your gateway to professional success.",
-  "google-site-verification": "xvIMB_dzO5SPCFZLabuJ9VkiTFZxkEoKqBErxNrrvqM",
+  other: {
+    "google-site-verification": "xvIMB_dzO5SPCFZLabuJ9VkiTFZxkEoKqBErxNrrvqM",
+  },
 };
 
 export default function Home() {
