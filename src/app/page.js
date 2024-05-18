@@ -1,5 +1,11 @@
 import Image from "next/image";
 
+const meta = {
+  title: "Career Consultant PK",
+  description: "Your gateway to professional success.",
+  "google-site-verification": "xvIMB_dzO5SPCFZLabuJ9VkiTFZxkEoKqBErxNrrvqM",
+};
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
