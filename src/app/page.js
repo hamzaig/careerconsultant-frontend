@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-const meta = {
+export const metadata = {
   title: "Career Consultant PK",
   description: "Your gateway to professional success.",
   "google-site-verification": "xvIMB_dzO5SPCFZLabuJ9VkiTFZxkEoKqBErxNrrvqM",
